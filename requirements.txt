@@ -1,0 +1,4 @@
+pandas
+geopandas
+contextily
+matplotlib
