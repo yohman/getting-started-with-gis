@@ -2,3 +2,5 @@ pandas
 geopandas
 contextily
 matplotlib
+descartes
+mapclassify
