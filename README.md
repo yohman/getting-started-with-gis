@@ -6,7 +6,7 @@ In this hands on workshop, you will be provided with a Jupyter Notebook workspac
 
 ## UCLA affiliated participants
 
-- Launch this workshop on our [JupyterHub](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2Fworkshop-census&urlpath=tree%2Fworkshop-census%2F&branch=master)
+- Launch this workshop on our [JupyterHub](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2Fworkshop-census&urlpath=lab%2Ftree%2Fworkshop-census%2FIntro+to+GIS.ipynb&branch=master)
 (choose UCLA)
 
 ## Non-UCLA participants
